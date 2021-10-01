@@ -22,4 +22,4 @@ $base_url = 'http://localhost/CMSNT/CHANLEMOMO/'; // Thay url web bạn
 * Phát tán và lưu trữ các loại mã độc nhằm mục đích tấn công website khác, hoặc mục đích phá hoại hệ thống của FUTE như Botnet, DDoS, Malware, Virus, Phishing. Bao gồm trường hợp website chứa mã độc.
 ### Lưu ý 
 * Đây là project mình share cho các bạn vui lòng không bán dưới mọi hình thức
-* Code có 1 số bug nên tuyệt đối không đem đi kinh 
+* Code có 1 số bug nên tuyệt đối không sử dụng vào việc kinh 
