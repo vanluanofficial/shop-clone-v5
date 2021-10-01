@@ -23,3 +23,5 @@ $base_url = 'http://localhost/CMSNT/CHANLEMOMO/'; // Thay url web bạn
 ### Lưu ý 
 * Đây là project mình share cho các bạn vui lòng không bán dưới mọi hình thức
 * Code có 1 số bug nên tuyệt đối không sử dụng vào việc kinh 
+## Liên hệ mình
+* Email: refresh.official@protonmail.
