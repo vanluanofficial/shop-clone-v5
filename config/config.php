@@ -2,7 +2,7 @@
 /* ĐƠN VỊ THIẾT KẾ WEB WWW.CMSNT.CO | ZALO 0947838128 | FB.COM/NTGTANETWORK */
 session_start();
 date_default_timezone_set('Asia/Ho_Chi_Minh'); // Timezone VIET NAM <3
-$base_url = 'http://localhost/CMSNT.CO/SHOPCLONE5/'; // Thay url web bạn
+$base_url = 'http://localhost/luanclonvip123.tk/'; // Thay url web bạn
 
 //error_reporting(0);
 class CMSNT
@@ -10,7 +10,8 @@ class CMSNT
     private $ketnoi;
     function connect()
     {
-        if (!$this->ketnoi)
+        if (!$this->ketnoi)luanclonvip123.tk/'; // Thay url web bạn
+
         {
             $this->ketnoi = mysqli_connect('localhost', 'root', '', 'shopclone5') or die ('Vui lòng kết nối đến DATABASE');
             mysqli_query($this->ketnoi, "set names 'utf8'");
